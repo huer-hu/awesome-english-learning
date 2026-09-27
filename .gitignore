@@ -1,0 +1,34 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.history/
+
+# Obsidian (如使用 Obsidian 编辑)
+.obsidian/
+.trash/
+
+# 临时与导出文件
+*.tmp
+*.bak
+*.log
+exports/
+dist/
+build/
+
+# 大体积媒体（按需保留，忽略音视频临时文件）
+*.part
+*.download
+
+# 环境变量
+.env
+.env.local
