@@ -66,6 +66,14 @@
 
 - **每日英语听力** — 海量音频资源（VOA/BBC/教材/影视原声），可逐句复读、调速、听写，常与欧路词典搭配。`Freemium` `iOS/Android/Win/Mac` `全阶段` `听力`
 
+### 少儿启蒙（K12）
+
+- **[Starfall](https://www.starfall.com/)** — 自然拼读与早期阅读启蒙，适合低龄儿童。`Freemium` `Web/iOS/Android` `入门` `发音/阅读`
+- **[ABCmouse](https://www.abcmouse.com/)** — 少儿英语综合启蒙，动画 / 游戏 / 绘本丰富。`付费` `Web/iOS/Android` `入门` `综合`
+- **[Khan Academy Kids](https://www.khankids.org/)** — 可汗少儿版，免费无广告，阅读 / 数学 / 社交综合。`免费` `iOS/Android` `入门` `综合`
+- **[Raz-Kids](https://www.raz-kids.com/)** — Reading A-Z 海量分级读物，K12 标配，支持录音跟读。`付费` `Web/App` `入门-中级` `阅读`
+- **[Epic!](https://www.getepic.com/)** — 儿童数字图书馆，数万本绘本 / 有声书。`付费` `iOS/Android/Web` `入门-中级` `阅读`
+
 ---
 
 <a id="tools"></a>
@@ -82,6 +90,8 @@
 - **[欧路词典 Eudic](https://www.eudic.net/)** — 可加载多本权威词库、取词方便，国内用户常用。`Freemium` `iOS/Android/Win/Mac` `全阶段` `词汇`
 - **[有道词典](https://www.youdao.com/)** — 综合查词 / 翻译 / 例句，覆盖面广。`Freemium` `全平台` `全阶段` `词汇/翻译`
 - **[Urban Dictionary](https://www.urbandictionary.com/)** — 网络俚语、流行语、梗的解释，看美剧 / 社媒必备。`免费` `Web/iOS/Android` `中级-高级` `词汇`
+- **[Vocabulary.com](https://www.vocabulary.com/)** — 自适应词汇学习 + 词典，用题库帮你真正掌握单词。`Freemium` `Web/App` `全阶段` `词汇`
+- **[Etymonline](https://www.etymonline.com/)** — 在线词源词典，查单词来历，配合词根记忆。`免费` `Web` `中级-高级` `词汇`
 
 ### 翻译
 
@@ -94,6 +104,9 @@
 - **[LanguageTool](https://languagetool.org/)** — 开源语法检查器，注重隐私，可自部署。`Freemium` `插件/Web/全平台` `全阶段` `写作/语法`
 - **[QuillBot](https://quillbot.com/)** — 句子改写 / paraphrase / 摘要，帮你换种地道说法。`Freemium` `Web` `中级-高级` `写作`
 - **[Hemingway Editor](https://hemingwayapp.com/)** — 标注难句 / 副词 / 被动语态，让文章更简洁。`Freemium` `Web/Win/Mac` `中级-高级` `写作`
+- **[Ludwig](https://ludwig.guru/)** — 写作时搜索地道句子 / 搭配，看母语者怎么写。`Freemium` `Web` `中级-高级` `写作`
+- **[ProWritingAid](https://prowritingaid.com/)** — 语法 + 深度写作风格分析，长文 / 小说友好。`Freemium` `Web/插件` `中级-高级` `写作`
+- **[Wordtune](https://www.wordtune.com/)** — AI 改写句子，给多种地道表达。`Freemium` `Web/插件` `中级-高级` `写作`
 
 ### 发音
 
@@ -106,6 +119,7 @@
 - **[沉浸式翻译 Immersive Translate](https://immersivetranslate.com/)** — 网页 / PDF / 视频双语对照翻译，阅读外文资料利器。`Freemium` `插件/全平台` `全阶段` `阅读`
 - **[Readlang](https://readlang.com/)** — 网页阅读时划词翻译并自动生成单词卡。`Freemium` `Web` `中级` `阅读/词汇`
 - **[Migaku](https://www.migaku.com/)** — 面向进阶沉浸式学习的浏览器套件，支持单词卡 / 词频高亮。`付费` `插件` `中级-高级` `阅读/词汇`
+- **[Asb Player](https://docs.asbplayer.dev/)** — 开源免费的字幕视频学习助手，逐句精听、一键生成多媒体单词卡（可对接 Anki）。`开源` `插件/Web` `全阶段` `听力/词汇`
 
 ### AI 助手
 
@@ -149,6 +163,9 @@
 - **[IELTS 雅思官方](https://www.ielts.org/)** — 官方报名、题型与备考资料。`免费` `Web` `—` `考试`
 - **[TOEFL 托福官方](https://www.ets.org/toefl)** — ETS 官方报名、样题与备考指南。`免费` `Web` `—` `考试`
 - **[Cambridge English 剑桥英语](https://www.cambridgeenglish.org/)** — 剑桥五级 / KET / PET / FCE 等官方资源。`免费` `Web` `—` `考试`
+- **[Duolingo English Test](https://englishtest.duolingo.com/)** — 多邻国英语测试，机考、出分快，用于留学申请。`付费` `Web` `—` `考试`
+- **[大学英语四六级 CET](http://cet.neea.edu.cn/)** — 中国教育考试网官方报名与信息。`付费(报名)` `Web` `—` `考试`
+- **考研英语 / 专四专八（TEM）** — 国内升学与英语专业考试，资料以官方与真题为准。`—` `—` `—` `考试`
 
 ---
 
@@ -182,6 +199,25 @@
 - **[Netflix](https://www.netflix.com/)** — 海量剧集电影，配合 Language Reactor 双语字幕精学。`付费` `全平台` `全阶段` `听力/口语`
 - **[YouTube](https://www.youtube.com/)** — 免费 vlog / 教程 / 纪录片，按兴趣选内容做可理解输入。`免费` `全平台` `全阶段` `听力`
 - **[TED](https://www.ted.com/)** ／ **[TED-Ed](https://ed.ted.com/)** — 演讲与趣味动画知识短片，多语种字幕。`免费` `Web` `中级-高级` `听力/演讲`
+
+### 分级新闻 / 阅读
+
+- **[News in Levels](https://www.newsinlevels.com/)** — 新闻和短文分 1–3 级、含音频，目标掌握 3000 高频词。`免费` `Web` `入门-中级` `阅读/听力`
+- **[Breaking News English](https://breakingnewsenglish.com/)** — 分级新闻 + 大量听力 / 词汇 / 讨论练习。`免费` `Web` `全阶段` `听力/阅读`
+- **[Newsela](https://newsela.com/)** — 同一新闻按蓝思等级改写，适合 K12 课堂。`Freemium` `Web` `入门-中级` `阅读`
+
+### 听力专项练习
+
+- **[Randall's ESL Listening Lab](https://www.esl-lab.com/)** — 经典分级听力，配测验与词汇，难度标注清晰。`免费` `Web` `全阶段` `听力`
+- **[Elllo](https://elllo.org/)** — 大量带文本听力，含各国口音与练习。`免费` `Web` `全阶段` `听力`
+- **[Spotlight English](https://www.spotlightenglish.com/)** — 慢速广播式节目，用词简单、话题广。`免费` `Web/播客` `入门-中级` `听力`
+
+### 商务 / 会议英语
+
+- **[Business English Pod](https://www.businessenglishpod.com/)** — 商务 / 会议 / 谈判场景播客，表达地道。`Freemium` `Web/播客` `中级-高级` `口语/听力`
+- **[BBC Office English](https://www.bbc.co.uk/learningenglish/english/features/office-english)** — BBC「English for Work」职场播客，含组织会议、表态、反馈，带文本。`免费` `Web/播客` `中级` `口语/听力`
+- **[HBR IdeaCast](https://hbr.org/podcasts/ideacast)** — 哈佛商业评论周刊，管理与职场话题，高级商务听力。`免费` `Web/播客` `高级` `听力`
+- **[The Economist](https://www.economist.com/)** — 经济学人，高级外刊阅读与配套音频。`付费` `Web` `高级` `阅读/听力`
 
 ---
 
@@ -274,12 +310,16 @@
 - **Word Power Made Easy（Norman Lewis）** — 按主题 / 词根串讲词汇，讲得透，适合系统扩词。`中级-高级` `词汇`
 - **English Vocabulary in Use（剑桥）** — 「在用」系列词汇书，按场景编排、配练习，分级齐全。`全阶段` `词汇`
 - **Merriam-Webster's Vocabulary Builder（韦小绿）** — 按词根编排、含词源故事，适合积累学术 / 高级词。`中级-高级` `词汇`
+- **[Academic Word List（AWL）](https://www.wgtn.ac.nz/lals/resources/academicwordlist)** — 570 个学术词族，覆盖学术文本大量比例，适合留学 / 学术英语。`免费` `中级-高级` `词汇`
 
 ### 经典教材
 
 - **新概念英语 New Concept English（L.G. Alexander）** — 1 册入门 → 4 册高级，课文经典、适合背诵模仿，打牢基础。`入门-高级` `综合`
 - **赖世雄美语从头学** — 中文讲解细致，自学美语发音与语法的经典。`入门-中级` `综合`
 - **许国璋英语** — 国内老牌体系教材，严谨系统。`入门-中级` `综合`
+- **Interchange 剑桥国际英语教程** — 全球畅销成人 ESL 教材，交际法、听说领先。`付费(书)` `入门-高级` `综合`
+- **English File（牛津）** — 牛津经典口语 / 语法教材，发音教学有特色。`付费(书)` `全阶段` `综合`
+- **Headway（牛津 New Headway）** — 经典 ESL 教材，体系均衡。`付费(书)` `全阶段` `综合`
 
 ### 写作
 
@@ -315,6 +355,7 @@
 - **[Reddit — r/WriteStreakEN](https://www.reddit.com/r/WriteStreakEN/)** — 每天用英语写一点，母语者会帮你批改。`免费` `中级` `写作`
 - **[Stack Exchange — English Language Learners](https://ell.stackexchange.com/)** — 针对英语学习者的高质量问答，语法 / 用词解释专业。`免费` `全阶段` `语法/词汇`
 - **[Quora](https://www.quora.com/)** — 英文问答社区，可看母语者如何表达、按兴趣阅读。`免费` `中级-高级` `阅读`
+- **[HiNative](https://hinative.com/)** — 母语者帮你看句子、听发音、问答（Lang-8 团队）。`Freemium` `iOS/Android/Web` `全阶段` `口语/词汇`
 
 ### 语伴 / 语言交换
 
