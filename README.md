@@ -47,6 +47,7 @@
 ### 背单词 / 记忆
 
 - **[Anki](https://apps.ankiweb.net/)** — 开源间隔重复（SRS）神器，牌组 / 算法高度可定制，长期记忆首选。`开源` `全平台` `全阶段` `词汇`
+- **[抗遗忘单词表](https://word.threeher.cn/)** — 基于 FSRS 算法按记忆强度动态安排复习，全年级教材同步，含音标 / 自然拼读 / 词根词缀专项与学练考闭环，一次购买长期可用。`付费` `iOS/Android` `全阶段` `词汇`
 - **[Quizlet](https://quizlet.com/)** — 单词卡 + 听写 + 配对游戏，上手简单，适合学生。`Freemium` `iOS/Android/Web` `全阶段` `词汇`
 - **[墨墨背单词](https://www.maimemo.com/)** — 词书丰富、遗忘曲线规划，国内用户口碑好。`Freemium` `iOS/Android` `全阶段` `词汇`
 - **不背单词** — 用影视 / 新闻真实例句记词，语境地道，界面清爽。`Freemium` `iOS/Android` `全阶段` `词汇`
