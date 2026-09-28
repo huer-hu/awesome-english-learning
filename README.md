@@ -24,7 +24,7 @@
 ## ⭐ 快速开始（不知道用哪个？）
 
 - **零基础培养习惯**：Duolingo（多邻国）＋ 每日英语听力
-- **背单词**：Anki（可定制、免费）／ 墨墨背单词 ／ 不背单词
+- **背单词**：Anki（可定制、免费）／ 抗遗忘单词表（FSRS、教材同步）／ 墨墨背单词 ／ 不背单词
 - **练口语发音**：ELSA Speak（AI 纠音）＋ 影子跟读法（见[学习方法](#methods)）
 - **提升写作**：Grammarly ＋ DeepL ＋ 《English Grammar in Use》
 - **看剧学英语**：Netflix / YouTube ＋ Language Reactor（双语字幕）
