@@ -14,6 +14,7 @@
 - [🧠 学习方法 / 算法 Methods](#methods)
 - [📚 书籍 / 教材 Books](#books)
 - [👥 社区 Communities](#communities)
+- [🧑‍🏫 英语教师 For Teachers](#teachers)
 - [🏷️ 标签说明](#标签说明)
 - [🧭 收录原则](#收录原则)
 - [🤝 贡献](#贡献)
@@ -377,6 +378,60 @@
 
 - **[Refold](https://refold.la/)** — 沉浸式习得路线图 + 活跃 Discord，按阶段指导并答疑。`Freemium` `Web` `全阶段` `方法`
 - **Reddit r/languagelearning 的 Discord** — 实时语音 / 文字交流，找学习搭子。`免费` `全阶段` `口语/方法`
+
+---
+
+<a id="teachers"></a>
+## 🧑‍🏫 英语教师 For Teachers
+
+> 面向 ESL / TEFL / TESOL 教师：备课教案、课堂互动、练习制作、语料分析、课件与课堂管理、专业发展。
+
+### 教案 / 工作表 / 课程
+
+- **[ESL Library](https://esl-library.com/)** — 高质量现成教案、工作表与分级课程，体系完整，成人 ESL 常用。`付费` `Web` `全阶段` `综合`
+- **[iSLCollective](https://en.islcollective.com/)** — 教师共创的海量免费工作表、PPT 与视频课，可自制视频测验。`Freemium` `Web` `全阶段` `综合`
+- **[BusyTeacher](https://busyteacher.org/)** — 1.7 万+ 免费可打印工作表与教案，免注册，应急备课好用。`免费` `Web` `全阶段` `综合`
+- **[OneStopEnglish](https://www.onestopenglish.com/)** — 权威教案、工作表与教学文章（含麦克米伦资源）。`Freemium` `Web` `全阶段` `综合`
+- **[ESL Brains](https://eslbrains.com/)** — 成人 / 青少年视频课与工作表，设计现代、话题新。`Freemium` `Web` `中级-高级` `综合`
+- **[Twinkl](https://www.twinkl.com/)** — K12 海量教学资源、教室布置、评估与家长材料。`Freemium` `Web` `入门` `综合`
+
+### 课堂互动 / 游戏 / 测评
+
+- **[Wordwall](https://wordwall.net/)** — 30+ 活动模板（测验、配对、转盘、随机卡），可打印，现成资源库庞大。`Freemium` `Web` `全阶段` `词汇/综合`
+- **[Baamboozle](https://www.baamboozle.com/)** — 单设备投影即玩的团队游戏，无需学生账号，暖场复习皆宜。`Freemium` `Web` `全阶段` `综合`
+- **[Kahoot!](https://kahoot.com/)** — 实时竞答、排行榜，课堂气氛热烈，适合暖场与复习。`Freemium` `Web/App` `全阶段` `词汇`
+- **[Quizizz](https://quizizz.com/)** — 学生自定步调测验（品牌 Wayground），可布置作业、形成性评估。`Freemium` `Web` `全阶段` `词汇`
+- **[Mentimeter](https://www.mentimeter.com/)** — 实时投票、词云、问答，全员参与、结果即时可视化。`Freemium` `Web` `全阶段` `口语`
+- **[Classroomscreen](https://classroomscreen.com/)** — 课堂屏幕工具箱：计时器、随机点名、分组、音量信号等。`Freemium` `Web` `全阶段` `综合`
+
+### 在线练习 / 测验制作
+
+- **[Liveworksheets](https://www.liveworksheets.com/)** — 把静态工作表变成可自动评分的在线互动练习。`Freemium` `Web` `全阶段` `综合`
+- **[Educaplay](https://www.educaplay.com/)** — 快速制作测验、填字、配对、听写等多媒体活动。`Freemium` `Web` `全阶段` `词汇`
+- **[BookWidgets](https://www.bookwidgets.com/)** — 生成 40+ 练习 / 测验 widget，自动批改，对接 Google Classroom / Teams / Moodle。`Freemium` `Web` `全阶段` `综合`
+
+### 语料 / 文本分析（备课与选材）
+
+- **[Text Inspector](https://textinspector.com/)** — 分析文本 CEFR 难度与词汇等级（EVP），选材、出题、评估作文。`Freemium` `Web` `全阶段` `词汇/阅读`
+- **[SkELL](https://skell.sketchengine.eu/)** — 免费查真实例句、搭配与近义词（基于 Sketch Engine）。`免费` `Web` `全阶段` `词汇`
+- **[Compleat Lexical Tutor (Lextutor)](https://www.lextutor.ca/)** — 词汇剖析、语料检索、填空练习生成，词汇教学经典免费。`免费` `Web` `全阶段` `词汇`
+- **[AntWordProfiler](https://www.laurenceanthony.net/software/antwordprofiler/)** — Laurence Anthony 免费桌面软件，剖析文本词汇等级与难度。`免费` `Win/Mac` `全阶段` `词汇`
+
+### 课件设计 / 课堂管理
+
+- **[Canva for Education](https://www.canva.com/education/)** — 教师认证免费，设计课件、海报、工作表、视频。`免费(教师)` `Web` `全阶段` `综合`
+- **[Google Classroom](https://classroom.google.com/)** — 作业分发、收集、评分的免费 LMS。`免费` `Web/App` `全阶段` `综合`
+- **[ClassDojo](https://www.classdojo.com/)** — K12 课堂管理、积分激励与家长沟通。`免费` `Web/App` `入门` `综合`
+- **[Seesaw](https://web.seesaw.me/)** — 学生作品数字档案，家长可见，适合低龄。`Freemium` `Web/App` `入门` `综合`
+- **[Moodle](https://moodle.org/)** — 开源自建 LMS / 课程平台，功能全、可自托管。`开源` `Web` `全阶段` `综合`
+
+### 教师社区 / 专业发展
+
+- **[British Council TeachingEnglish](https://www.teachingenglish.org.uk/)** — 官方教师发展资源、教案、文章与网络研讨，免费。`免费` `Web` `全阶段` `方法`
+- **[TES](https://www.tes.com/)** — 全球大型教师社区，教案资源、招聘与讨论。`Freemium` `Web` `全阶段` `综合`
+- **[Dave's ESL Cafe](https://www.eslcafe.com/)** — 老牌 ESL 教师社区，招聘、教案与教学讨论。`免费` `Web` `全阶段` `综合`
+- **[Cambridge CELTA](https://www.cambridgeenglish.org/teaching-english/teaching-qualifications/celta/)** — 剑桥成人英语教师资格证（另有 Delta 高级文凭）。`付费` `Web` `—` `认证`
+- **[Trinity CertTESOL](https://www.trinitycollege.com/qualifications/teaching-english/certtesol)** — 英国 Trinity 教师资格证（与 CELTA 齐名，另有 DipTESOL）。`付费` `Web` `—` `认证`
 
 ---
 
